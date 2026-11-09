@@ -1,0 +1,16 @@
+{
+  "value_id": "HV011",
+  "number": 2,
+  "group": "Экзистенциальные и познавательные",
+  "value": "Широта взглядов",
+  "definition_id": "dataset",
+  "definition": "Умение понять чужую точку зрения, уважать иные вкусы, обычаи, привычки(Рокич)",
+  "scene": "Люди с разным жизненным опытом внимательно слушают друг друга.",
+  "output": "images/Экзистенциальные и познавательные/Широта взглядов/02.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "variation": "A different plausible everyday situation based on this scene and the same meaning, with different adult characters and location.",
+  "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 realistic documentary photograph, not a collage. Psychology research stimulus. Target value: Широта взглядов. Expert definition in Russian: Умение понять чужую точку зрения, уважать иные вкусы, обычаи, привычки(Рокич)\nVisual scene seed: Люди с разным жизненным опытом внимательно слушают друг друга.\nVariation: A different plausible everyday situation based on this scene and the same meaning, with different adult characters and location.\nChoose one coherent visible situation expressing an association with the definition. Natural light, realistic anatomy and textures, ordinary contemporary surroundings. No readable text, titles, logos, watermark, diagram, flags or value labels. No advertising glamour. Do not infer moral character from gender or ethnicity. For religious and traditional practices, depict a respectful coherent context without combining stereotypes. This is an unvalidated candidate for human assessment. Internal reference HV011/2 must NOT appear in the image.",
+  "generated_at": "2026-11-08T19:19:25.550190+00:00",
+  "sha256": "73ed504e22a3f76ce553870fbe69a31a416f2a41e912c5583af956e6b48cfb0c"
+}
