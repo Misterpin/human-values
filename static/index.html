@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Human Values · Лаборатория изображений</title><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head>
+<body>
+<aside class="sidebar" id="sidebar">
+ <a class="brand" href="/" aria-label="Human Values — главная"><span class="brand-symbol">h<span>v</span></span><span>Human Values<small>ЛАБОРАТОРИЯ ИЗОБРАЖЕНИЙ</small></span></a>
+ <div class="collection-summary"><span class="live-dot"></span> 7 групп <span class="middot">·</span> 100 ценностей</div>
+ <label class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg><input id="search" placeholder="Найти ценность…" aria-label="Поиск ценности" autocomplete="off"><kbd>/</kbd></label>
+ <div class="nav-caption">ТАКСОНОМИЯ <span id="nav-count">100</span></div>
+ <nav id="groups" aria-label="Группы ценностей"></nav>
+ <footer class="sidebar-footer"><div class="archive-number" id="image-total">0<span> изображений в коллекции</span></div><div class="progress-track"><span id="collection-progress"></span></div><p id="ready-total">Загрузка коллекции…</p><button id="refresh" class="text-button">↻ Обновить коллекцию</button></footer>
+</aside>
+<div class="workspace">
+ <header class="topbar"><div class="breadcrumb"><button id="menu-toggle" class="icon-button" aria-label="Показать меню">☰</button><span>Исследование</span><span class="crumb-separator">/</span><strong id="crumb-group">Витальные</strong></div><div class="top-actions"><span class="local-status"><span class="live-dot"></span>Локально</span><button class="button small" id="participant-view">Режим участника ↗</button><button class="icon-button" id="settings-toggle" aria-label="Настройки исследования" title="Настройки исследования">⚙</button></div></header>
+ <main id="main">
+  <div class="page-heading" id="value-heading"><div><div class="eyebrow" id="value-category">HUMAN VALUES</div><h1 id="value-name">Загрузка…</h1><p class="value-subtitle">Как изображение передаёт смысл ценности</p></div><span class="value-badge" id="value-id">HV001</span></div>
+  <section class="definition-card" id="definition-card"><div class="definition-label"><span class="book-icon">⌑</span> ОПРЕДЕЛЕНИЕ ИЗ ДАТАСЕТА <span class="source-chip">Human Values</span></div><div class="definition-selectors"><label id="definition-label" hidden>Определение<select id="definition-select"></select></label><label id="formulation-label" hidden>Формулировка<select id="formulation-select"></select></label></div><p id="definition-text"></p><details class="definition-source"><summary>Источник определения</summary><p id="definition-source"></p></details></section>
+  <section class="settings-panel" id="settings-panel" hidden><div><h2>Условия предъявления</h2><p>Сохраняются с каждым ответом.</p></div><div class="settings-grid"><label>ID участника<input id="participant-id" maxlength="64" autocomplete="off"></label><label>Критерий<select id="criterion-select"></select></label><label>Культурный контекст<select id="context-select"></select></label></div><div class="export-actions"><a class="text-button" href="/api/export?format=csv">Скачать ответы · CSV ↗</a><a class="text-button" href="/api/export?format=json">Полные данные · JSON ↗</a><button id="new-participant" class="text-button">Новый участник</button></div><p class="settings-note">Названия, определения, альтернативные формулировки и наборы объяснений редактируются в config/study.json.</p></section>
+  <section class="evaluation-section"><div class="section-heading"><h2>Оценка изображений</h2><span id="photo-count" class="muted">0 изображений</span></div><div class="paradigm-tabs" role="tablist" aria-label="Парадигма оценки"><button role="tab" data-mode="rating" aria-selected="true"><span class="tab-icon">▧</span><span>Шкала 1–5<small>Одно изображение</small></span></button><button role="tab" data-mode="ranking" aria-selected="false"><span class="tab-icon">≡</span><span>Ранжирование<small>Пять изображений</small></span></button><button role="tab" data-mode="pair" aria-selected="false"><span class="tab-icon">◫</span><span>Парное сравнение<small>Выбор или ничья</small></span></button><button role="tab" data-mode="bws" aria-selected="false"><span class="tab-icon">⊞</span><span>Лучшее / худшее<small>Четыре интерпретации</small></span></button></div>
+   <div class="trial-bar"><div><span class="trial-kicker" id="mode-kicker">СООТВЕТСТВИЕ ПОНЯТИЮ</span><p id="instruction"></p><p id="criterion-help" class="muted"></p><p id="context-help" class="muted" hidden></p></div><span class="trial-counter" id="trial-counter"></span></div>
+   <div id="bws-note" class="method-note" hidden>В этом режиме оцениваются четыре интерпретации одного изображения. Для предъявления без подсказки включите режим участника: он скроет выбранную ценность и меню.</div>
+   <div id="trial" aria-live="polite"></div>
+   <div class="answer-footer" id="answer-footer" hidden><div><span class="save-indicator" id="answer-status">Выберите ответ</span><small id="session-status">Ответ сохранится только после нажатия кнопки</small></div><div class="answer-actions"><button id="skip" class="button">Пропустить</button><button id="submit" class="button primary" disabled>Сохранить и продолжить <span>→</span></button></div></div>
+  </section>
+  <footer class="page-footer"><span>Human Values · пилотное исследование</span><span id="participant-footer"></span></footer>
+ </main>
+</div>
+<div id="toast" class="toast" role="status" hidden></div>
+<dialog id="image-dialog"><button id="close-dialog" class="icon-button" aria-label="Закрыть изображение">×</button><img id="large-image" alt="Изображение в полном размере"></dialog>
+</body></html>
