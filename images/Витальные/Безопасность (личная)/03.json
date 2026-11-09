@@ -1,0 +1,16 @@
+{
+  "value_id": "HV007",
+  "number": 3,
+  "group": "Витальные",
+  "value": "Безопасность (личная)",
+  "definition_id": "dataset",
+  "definition": "Безопасность личная для обеспечения жизнедеятельности индивида\n1) Социальный процесс, в рамках которого защита прав и свобод человека предполагает уменьшение угрозы их нарушения. Защита прав и свобод личности и социально одобряемых интересов.",
+  "scene": "Человек помогает близкому безопасно пройти по скользкой лестнице.",
+  "output": "images/Витальные/Безопасность (личная)/03.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "variation": "A distinct concrete moment involving a small group if appropriate to this value; adapt the supplied scene, do not repeat the composition.",
+  "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 realistic documentary photograph, not a collage. Psychology research stimulus. Target value: Безопасность (личная). Expert definition in Russian: Безопасность личная для обеспечения жизнедеятельности индивида\n1) Социальный процесс, в рамках которого защита прав и свобод человека предполагает уменьшение угрозы их нарушения. Защита прав и свобод личности и социально одобряемых интересов.\nVisual scene seed: Человек помогает близкому безопасно пройти по скользкой лестнице.\nVariation: A distinct concrete moment involving a small group if appropriate to this value; adapt the supplied scene, do not repeat the composition.\nChoose one coherent visible situation expressing an association with the definition. Natural light, realistic anatomy and textures, ordinary contemporary surroundings. No readable text, titles, logos, watermark, diagram, flags or value labels. No advertising glamour. Do not infer moral character from gender or ethnicity. For religious and traditional practices, depict a respectful coherent context without combining stereotypes. This is an unvalidated candidate for human assessment. Internal reference HV007/3 must NOT appear in the image.",
+  "generated_at": "2026-11-08T19:14:55.642187+00:00",
+  "sha256": "e50d4d0a3629f79260ff6a5a356fb3c95fe3bd872aa3a09d94a1b82d0c441373"
+}
