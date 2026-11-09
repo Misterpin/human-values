@@ -1,0 +1,16 @@
+{
+  "value_id": "HV009",
+  "number": 2,
+  "group": "Экзистенциальные и познавательные",
+  "value": "Перфекционизм",
+  "definition_id": "dataset",
+  "definition": "Непримиримость к недостаткам в себе и других(Рокич)",
+  "scene": "Мастер тщательно исправляет маленький дефект уже почти законченной работы.",
+  "output": "images/Экзистенциальные и познавательные/Перфекционизм/02.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "variation": "A different plausible everyday situation based on this scene and the same meaning, with different adult characters and location.",
+  "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 realistic documentary photograph, not a collage. Psychology research stimulus. Target value: Перфекционизм. Expert definition in Russian: Непримиримость к недостаткам в себе и других(Рокич)\nVisual scene seed: Мастер тщательно исправляет маленький дефект уже почти законченной работы.\nVariation: A different plausible everyday situation based on this scene and the same meaning, with different adult characters and location.\nChoose one coherent visible situation expressing an association with the definition. Natural light, realistic anatomy and textures, ordinary contemporary surroundings. No readable text, titles, logos, watermark, diagram, flags or value labels. No advertising glamour. Do not infer moral character from gender or ethnicity. For religious and traditional practices, depict a respectful coherent context without combining stereotypes. This is an unvalidated candidate for human assessment. Internal reference HV009/2 must NOT appear in the image.",
+  "generated_at": "2026-11-08T19:16:33.977549+00:00",
+  "sha256": "660f1c869226efd64c03394495e244cf0e95c971413ca602f624cbca9d46bf14"
+}
