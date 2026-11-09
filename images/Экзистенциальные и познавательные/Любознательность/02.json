@@ -1,0 +1,16 @@
+{
+  "value_id": "HV016",
+  "number": 2,
+  "group": "Экзистенциальные и познавательные",
+  "value": "Любознательность",
+  "definition_id": "dataset",
+  "definition": "1) Свойство личности как потребность в познании не только определенных феноменов, но и их систем. Необходимо отличать от любопытства.",
+  "scene": "Человек с интересом рассматривает неизвестный природный объект через лупу.",
+  "output": "images/Экзистенциальные и познавательные/Любознательность/02.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "variation": "A different plausible everyday situation based on this scene and the same meaning, with different adult characters and location.",
+  "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 realistic documentary photograph, not a collage. Psychology research stimulus. Target value: Любознательность. Expert definition in Russian: 1) Свойство личности как потребность в познании не только определенных феноменов, но и их систем. Необходимо отличать от любопытства.\nVisual scene seed: Человек с интересом рассматривает неизвестный природный объект через лупу.\nVariation: A different plausible everyday situation based on this scene and the same meaning, with different adult characters and location.\nChoose one coherent visible situation expressing an association with the definition. Natural light, realistic anatomy and textures, ordinary contemporary surroundings. No readable text, titles, logos, watermark, diagram, flags or value labels. No advertising glamour. Do not infer moral character from gender or ethnicity. For religious and traditional practices, depict a respectful coherent context without combining stereotypes. This is an unvalidated candidate for human assessment. Internal reference HV016/2 must NOT appear in the image.",
+  "generated_at": "2026-11-08T19:23:28.898972+00:00",
+  "sha256": "12bbfbc4ce824d3ce7b9e74c29ae037d61d94c749fb6187840c295ebb2b24276"
+}
