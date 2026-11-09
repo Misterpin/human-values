@@ -1,0 +1,18 @@
+{
+  "value_id": "HV001",
+  "number": 1,
+  "group": "Витальные",
+  "value": "Жизнь",
+  "definition_id": "dataset",
+  "definition": "Право на жизнь\n1) Форма существования высокоорганизованных неравновесных, открытых систем, вструктуре которых решающую роль играют белки и нуклеотиды; эти системы способны к обмену веществ, самовспроизведению путём передачи наследственной информации и изменчивост наоснове мутаций.\n2) Способ бытия сущносей, наделённых внуренней активностью, в отличие от неживых предметов, нуждающихся во внешнем источнике движения.\n3) Необходимое безальтернативное условие социальных отношений.\n4) Процесс рефлексии над процессом существования, отраженый во влиянии на исторические процессы, осуществлении деятельности в области искусства и науки.\nНепосредственное, внутреннее переживание человеком собственного бытия, которое является уникальным и раскрывается в духовно-коммуникативном опыте.",
+  "scene": "Взрослая дочь и пожилой отец рассматривают молодой росток в домашнем саду.",
+  "variation": "A candid medium-wide shot of the described scene. The action and relationships should be visible.",
+  "prompt": "Create one photorealistic natural documentary photograph for a psychology research stimulus collection, landscape 3:2. Human value: Жизнь (Life). Meaning: a person's unique inner experience of being alive, life as an essential condition of human relationships. Visual scene: an adult woman in ordinary everyday clothes crouches beside her elderly father in a modest home garden, both attentively examining a newly sprouted plant, quiet candid expressions and palpable vitality. Natural daylight, lifelike texture, ordinary contemporary setting, neither advertising nor idealized glamour. One coherent photo, no collage, no writing, captions, logos, watermarks, flags, icons or value labels. Express meaning through the action and relationships, not textual clues. This is candidate HV001/01 for human evaluation, not a validated depiction.",
+  "output": "images/Витальные/Жизнь/01.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "definition_in_prompt": "English summary of the supplied definition; see prompt.",
+  "sha256": "a2e658da5330e301f15d7aa2501c303dfaed1bda2fd83959b15a6725fb47e0a6",
+  "generated_at": null,
+  "metadata_note": "First pilot image; original generation time was not recorded."
+}
