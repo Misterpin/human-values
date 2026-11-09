@@ -1,0 +1,16 @@
+{
+  "value_id": "HV013",
+  "number": 5,
+  "group": "Экзистенциальные и познавательные",
+  "value": "Целеустремленность",
+  "definition_id": "dataset",
+  "definition": "1) Положительное нравственно-волевое качество личности, проявляющееся как способность личности ставить ясные и доступные цели и задачи деятельности, действий, поступков, основываясь на жизненных принципах, личных взглядах и убеждениях, нравственных установках.",
+  "scene": "Человек последовательно завершает этапы длительного практического проекта.",
+  "output": "images/Экзистенциальные и познавательные/Целеустремленность/05.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "variation": "Another concrete situation inspired by the scene, photographed at a different time of day with a different composition. No theatrical poses.",
+  "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 realistic documentary photograph, not a collage. Psychology research stimulus. Target value: Целеустремленность. Expert definition in Russian: 1) Положительное нравственно-волевое качество личности, проявляющееся как способность личности ставить ясные и доступные цели и задачи деятельности, действий, поступков, основываясь на жизненных принципах, личных взглядах и убеждениях, нравственных установках.\nVisual scene seed: Человек последовательно завершает этапы длительного практического проекта.\nVariation: Another concrete situation inspired by the scene, photographed at a different time of day with a different composition. No theatrical poses.\nChoose one coherent visible situation expressing an association with the definition. Natural light, realistic anatomy and textures, ordinary contemporary surroundings. No readable text, titles, logos, watermark, diagram, flags or value labels. No advertising glamour. Do not infer moral character from gender or ethnicity. For religious and traditional practices, depict a respectful coherent context without combining stereotypes. This is an unvalidated candidate for human assessment. Internal reference HV013/5 must NOT appear in the image.",
+  "generated_at": "2026-11-08T19:20:15.474051+00:00",
+  "sha256": "df1359c56ae390d2cdda9c42d6d710e81c27d93619c16eb01241b29bea34d63c"
+}
