@@ -1,0 +1,16 @@
+{
+  "value_id": "HV017",
+  "number": 4,
+  "group": "Экзистенциальные и познавательные",
+  "value": "Смелость",
+  "definition_id": "dataset",
+  "definition": "1) Моральное качество, характеризующее способность человека преодолевать в себе чувство страха, неуверенности в успехе, опасения перед трудностями и неблагоприятными для него последствиями. С. предполагает решительные действия во имя достижения поставленной цели, верность избранным идеалам и принципам вопреки враждебным обстоятельствам и давлению со стороны др. людей, откровенное выражение своего собственного мнения, особенно когда оно противоречит устоявшимся или санкционированным властью взглядам, непримиримость в отношении всякого зла и несправедливости.  \n2) Ориентация на быстрое решение жизненных проблем (привычка к авралу, удальство, высокая трудоспособность, героизм и т.д.)",
+  "scene": "Обычный человек решается защитить другого от агрессивного поведения.",
+  "output": "images/Экзистенциальные и познавательные/Смелость/04.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "variation": "A quiet close observational view of a meaningful action or gesture in this scene, with enough surroundings to understand it.",
+  "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 realistic documentary photograph, not a collage. Psychology research stimulus. Target value: Смелость. Expert definition in Russian: 1) Моральное качество, характеризующее способность человека преодолевать в себе чувство страха, неуверенности в успехе, опасения перед трудностями и неблагоприятными для него последствиями. С. предполагает решительные действия во имя достижения поставленной цели, верность избранным идеалам и принципам вопреки враждебным обстоятельствам и давлению со стороны др. людей, откровенное выражение своего собственного мнения, особенно когда оно противоречит устоявшимся или санкционированным властью взглядам, непримиримость в отношении всякого зла и несправедливости.  \n2) Ориентация на быстрое решение жизненных проблем (привычка к авралу, удальство, высокая трудоспособность, героизм и т.д.)\nVisual scene seed: Обычный человек решается защитить другого от агрессивного поведения.\nVariation: A quiet close observational view of a meaningful action or gesture in this scene, with enough surroundings to understand it.\nChoose one coherent visible situation expressing an association with the definition. Natural light, realistic anatomy and textures, ordinary contemporary surroundings. No readable text, titles, logos, watermark, diagram, flags or value labels. No advertising glamour. Do not infer moral character from gender or ethnicity. For religious and traditional practices, depict a respectful coherent context without combining stereotypes. This is an unvalidated candidate for human assessment. Internal reference HV017/4 must NOT appear in the image.",
+  "generated_at": "2026-11-08T19:24:17.296799+00:00",
+  "sha256": "7ce484c318b61a44f623b6df70873fe0ea398016c646d7b94260f407f3b0f32d"
+}

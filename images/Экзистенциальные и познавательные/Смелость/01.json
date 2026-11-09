@@ -1,0 +1,16 @@
+{
+  "value_id": "HV017",
+  "number": 1,
+  "group": "Экзистенциальные и познавательные",
+  "value": "Смелость",
+  "definition_id": "dataset",
+  "definition": "1) Моральное качество, характеризующее способность человека преодолевать в себе чувство страха, неуверенности в успехе, опасения перед трудностями и неблагоприятными для него последствиями. С. предполагает решительные действия во имя достижения поставленной цели, верность избранным идеалам и принципам вопреки враждебным обстоятельствам и давлению со стороны др. людей, откровенное выражение своего собственного мнения, особенно когда оно противоречит устоявшимся или санкционированным властью взглядам, непримиримость в отношении всякого зла и несправедливости.  \n2) Ориентация на быстрое решение жизненных проблем (привычка к авралу, удальство, высокая трудоспособность, героизм и т.д.)",
+  "scene": "Обычный человек решается защитить другого от агрессивного поведения.",
+  "variation": "A candid medium-wide shot of the described scene. The action and relationships should be visible.",
+  "prompt": "Use case: photorealistic-natural. Generate exactly one landscape 3:2 realistic documentary photograph for a psychology research image collection. Target human value: Смелость. Expert definition (Russian, preserve the intended meaning, use one coherent visible situation rather than attempting to depict all clauses): 1) Моральное качество, характеризующее способность человека преодолевать в себе чувство страха, неуверенности в успехе, опасения перед трудностями и неблагоприятными для него последствиями. С. предполагает решительные действия во имя достижения поставленной цели, верность избранным идеалам и принципам вопреки враждебным обстоятельствам и давлению со стороны др. людей, откровенное выражение своего собственного мнения, особенно когда оно противоречит устоявшимся или санкционированным властью взглядам, непримиримость в отношении всякого зла и несправедливости.  \n2) Ориентация на быстрое решение жизненных проблем (привычка к авралу, удальство, высокая трудоспособность, героизм и т.д.)\nVisual scene seed: Обычный человек решается защитить другого от агрессивного поведения.\nThis candidate's direction: A candid medium-wide shot of the described scene. The action and relationships should be visible.\nNatural plausible light, realistic textures and anatomy, ordinary contemporary surroundings. No readable text, titles, logos, watermarks, value labels, diagram, collage, advertising polish or unrelated symbolic props. Do not infer a person's moral traits from ethnicity, gender or appearance. For traditions and religious values, use a coherent respectful specific everyday context, not a mixture of stereotypes. Depict a candidate association with the value; do not present this as objectively validated. One photograph only. Candidate reference HV017/01 (never write the reference in the image).",
+  "output": "images/Экзистенциальные и познавательные/Смелость/01.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "generated_at": "2026-11-09T07:46:22.288611+00:00",
+  "sha256": "fa2412847efd24056ba7ec1b8c1d8035dbfb4d6511d822c8540e6896b44184d6"
+}
