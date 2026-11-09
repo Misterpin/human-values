@@ -1,0 +1,16 @@
+{
+  "value_id": "HV003",
+  "number": 3,
+  "group": "Витальные",
+  "value": "Время",
+  "definition_id": "dataset",
+  "definition": "1) Форма протекания всех механич., органич. и психич. процессов; условие возможности движения, изменения, развития.",
+  "scene": "Человек осмысленно распределяет время между близкими и важным личным делом.",
+  "output": "images/Витальные/Время/03.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "variation": "A distinct concrete moment involving a small group if appropriate to this value; adapt the supplied scene, do not repeat the composition.",
+  "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 realistic documentary photograph, not a collage. Psychology research stimulus. Target value: Время. Expert definition in Russian: 1) Форма протекания всех механич., органич. и психич. процессов; условие возможности движения, изменения, развития.\nVisual scene seed: Человек осмысленно распределяет время между близкими и важным личным делом.\nVariation: A distinct concrete moment involving a small group if appropriate to this value; adapt the supplied scene, do not repeat the composition.\nChoose one coherent visible situation expressing an association with the definition. Natural light, realistic anatomy and textures, ordinary contemporary surroundings. No readable text, titles, logos, watermark, diagram, flags or value labels. No advertising glamour. Do not infer moral character from gender or ethnicity. For religious and traditional practices, depict a respectful coherent context without combining stereotypes. This is an unvalidated candidate for human assessment. Internal reference HV003/3 must NOT appear in the image.",
+  "generated_at": "2026-11-08T19:10:08.910689+00:00",
+  "sha256": "dd5cac66817ef882e5c5881f48c6659cbee0e7754af06fcb865f16a3bbf26578"
+}
