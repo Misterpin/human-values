@@ -1,0 +1,16 @@
+{
+  "value_id": "HV018",
+  "number": 2,
+  "group": "Экзистенциальные и познавательные",
+  "value": "Спокойствие (внутренняя гармония)",
+  "definition_id": "dataset",
+  "definition": "1) Распознавание личностью порядка и единства среди хаотичного множества чувственных раздражителей. Ощущение наполненности жизни делом, переживание счастья, отсутствие ожиданий от других.",
+  "scene": "Человек спокойно отдыхает в тихом месте и внимательно смотрит на окружающий мир.",
+  "output": "images/Экзистенциальные и познавательные/Спокойствие (внутренняя гармония)/02.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "variation": "A different plausible everyday situation based on this scene and the same meaning, with different adult characters and location.",
+  "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 realistic documentary photograph, not a collage. Psychology research stimulus. Target value: Спокойствие (внутренняя гармония). Expert definition in Russian: 1) Распознавание личностью порядка и единства среди хаотичного множества чувственных раздражителей. Ощущение наполненности жизни делом, переживание счастья, отсутствие ожиданий от других.\nVisual scene seed: Человек спокойно отдыхает в тихом месте и внимательно смотрит на окружающий мир.\nVariation: A different plausible everyday situation based on this scene and the same meaning, with different adult characters and location.\nChoose one coherent visible situation expressing an association with the definition. Natural light, realistic anatomy and textures, ordinary contemporary surroundings. No readable text, titles, logos, watermark, diagram, flags or value labels. No advertising glamour. Do not infer moral character from gender or ethnicity. For religious and traditional practices, depict a respectful coherent context without combining stereotypes. This is an unvalidated candidate for human assessment. Internal reference HV018/2 must NOT appear in the image.",
+  "generated_at": "2026-11-08T19:25:18.397530+00:00",
+  "sha256": "97a18d6fe550cb0360a73ca947f3acd991b70df03679fedfbcdbd5e5a839f239"
+}

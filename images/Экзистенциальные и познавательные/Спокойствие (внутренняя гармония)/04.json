@@ -1,0 +1,16 @@
+{
+  "value_id": "HV018",
+  "number": 4,
+  "group": "Экзистенциальные и познавательные",
+  "value": "Спокойствие (внутренняя гармония)",
+  "definition_id": "dataset",
+  "definition": "1) Распознавание личностью порядка и единства среди хаотичного множества чувственных раздражителей. Ощущение наполненности жизни делом, переживание счастья, отсутствие ожиданий от других.",
+  "scene": "Человек спокойно отдыхает в тихом месте и внимательно смотрит на окружающий мир.",
+  "output": "images/Экзистенциальные и познавательные/Спокойствие (внутренняя гармония)/04.png",
+  "status": "candidate_not_validated",
+  "generator": "built-in image_gen",
+  "variation": "A quiet close observational view of a meaningful action or gesture in this scene, with enough surroundings to understand it.",
+  "prompt": "Use case: photorealistic-natural. Create ONE landscape 3:2 realistic documentary photograph, not a collage. Psychology research stimulus. Target value: Спокойствие (внутренняя гармония). Expert definition in Russian: 1) Распознавание личностью порядка и единства среди хаотичного множества чувственных раздражителей. Ощущение наполненности жизни делом, переживание счастья, отсутствие ожиданий от других.\nVisual scene seed: Человек спокойно отдыхает в тихом месте и внимательно смотрит на окружающий мир.\nVariation: A quiet close observational view of a meaningful action or gesture in this scene, with enough surroundings to understand it.\nChoose one coherent visible situation expressing an association with the definition. Natural light, realistic anatomy and textures, ordinary contemporary surroundings. No readable text, titles, logos, watermark, diagram, flags or value labels. No advertising glamour. Do not infer moral character from gender or ethnicity. For religious and traditional practices, depict a respectful coherent context without combining stereotypes. This is an unvalidated candidate for human assessment. Internal reference HV018/4 must NOT appear in the image.",
+  "generated_at": "2026-11-08T19:26:23.547113+00:00",
+  "sha256": "12f1a93d98b7fe063b7bd5d704cda0c87248bad0973936937961985eab32854e"
+}
